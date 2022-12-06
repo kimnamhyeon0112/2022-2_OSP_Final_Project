@@ -33,7 +33,7 @@ Soccer World Cup 2022 Prediction(https://www.kaggle.com/datasets/shilongzhuang/s
 3. 머신러닝 기법을 1개 이상 사용하여 모델 학습 및 모델 평가 수치 계산
 
 ### 결과 해석 및 응용 방향 설계 ###
-추후 업로드 예정
+2019037004_김남현_오픈소스기말프로젝트.docx 참고
 
 ### 보고서 ###
-추후 업로드 예정
+2019037004_김남현_오픈소스기말프로젝트.docx 참고
